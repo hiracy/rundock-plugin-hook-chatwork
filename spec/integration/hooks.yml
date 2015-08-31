@@ -1,0 +1,4 @@
+send_chatwork_room:
+  hook_type: chatwork
+  token: <TOKEN>
+  room_id: <ROOM_ID>
