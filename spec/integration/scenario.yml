@@ -1,4 +1,4 @@
-- node: anyhost-01
+- target: anyhost-01
   command:
     - "echo 'Hello Rundock plugin hook chatwork from Scenario.'"
     - hostname
